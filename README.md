@@ -1,1 +1,1 @@
-# odin-recipes
+This project is part of The Odin Project: Foundations Course, where I will build a simple multi‑page recipe website using pure HTML. The goal is to practice structuring webpages, organizing files, creating links between pages, and writing clean, semantic markup. By the end of the project, you will have a functional website containing an index page and multiple recipe pages, each with images, descriptions, lists of ingredients, and steps.
